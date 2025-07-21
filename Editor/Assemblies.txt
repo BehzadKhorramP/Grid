@@ -1,0 +1,8 @@
+        "MadApper.Essentials",
+        "MadApper.Bridge",
+        "MadApper.GridSystem",
+        "MadApperEditor.Common",
+        "Unity.TextMeshPro",
+        "Unity.2D.Tilemap.Editor",
+        "Unity.VisualScripting.Core",
+        "UniTask"

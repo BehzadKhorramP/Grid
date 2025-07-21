@@ -1,0 +1,33 @@
+{
+    "name": "MadApper.GridSystem.Editor",
+    "rootNamespace": "MadApper.GridSystem.Editor",
+    "references": [
+        "MadApper.Essentials",
+        "MadApper.Bridge",
+        "MadApper.GridSystem",
+        "MadApperEditor.Common",
+        "Unity.TextMeshPro",
+        "Unity.2D.Tilemap.Editor",
+        "Unity.VisualScripting.Core",
+        "UniTask"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TILEMAP_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.2d.tilemap",
+            "expression": "",
+            "define": "TILEMAP_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

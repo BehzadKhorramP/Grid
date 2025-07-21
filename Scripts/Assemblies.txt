@@ -1,0 +1,9 @@
+"MadApper.Essentials",
+"MadApper.Singleton",
+"MadApper.Bridge",
+"MadApperEditor.Common",
+"Unity.TextMeshPro",
+"Unity.VisualScripting.Core",
+"DOTween.Modules",
+"UniTask",
+"ZLinq.Unity"
